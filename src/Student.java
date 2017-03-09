@@ -9,7 +9,6 @@ public class Student {
 		this.id = id;
 	}
 
-	
 	int getId() {
 		return this.id;
 	}

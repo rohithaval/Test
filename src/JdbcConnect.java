@@ -42,7 +42,6 @@ public class JdbcConnect {
 				st.setAge(rs.getInt(3));
 				st.setAddress(rs.getString(4));
 				listofstudents[count]=st;
-				
 				count++;
 			}
 			
