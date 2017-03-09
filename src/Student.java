@@ -10,7 +10,6 @@ public class Student {
 	}
 
 	
-	
 	int getId() {
 		return this.id;
 	}
